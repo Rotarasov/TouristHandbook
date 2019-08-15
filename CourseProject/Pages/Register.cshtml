@@ -1,0 +1,37 @@
+﻿@page
+@model CourseProject.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_LoginLayout"; 
+}
+
+    <div class="container">
+        <main role="main" class="mt-5">
+            <h1>Register</h1> <br />
+            <form method="post" autocomplete="off">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Context.FirstName">First Name</label>
+                    <input asp-for="Context.FirstName" type="text" class="form-control" placeholder="John">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Context.LastName">Last Name</label>
+                    <input asp-for="Context.LastName" type="text" class="form-control" placeholder="Brown">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Context.Email">Email address</label>
+                    <input asp-for="Context.Email" type="email" class="form-control" placeholder="example@gmail.com" autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Context.Password">Password</label>
+                    <input asp-for="Context.Password" type="password" class="form-control" placeholder="password" autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label asp-for="Context.ConfirmPassword">Confirm password</label>
+                    <input asp-for="Context.ConfirmPassword" type="password" class="form-control" placeholder="password">
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg my-3">Register</button> <br />
+            </form>
+        </main>
+    </div>
+

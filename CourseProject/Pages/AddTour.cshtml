@@ -1,0 +1,63 @@
+﻿@page "{userId}"
+@model CourseProject.Pages.AddTourModel
+@{
+    ViewData["Title"] = "AddTour";
+}
+
+<h1>Tour <span class="badge badge-primary">New</span></h1>
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <input hidden asp-for="UserId" />
+    <div class="form-group">
+        <label asp-for="Tour.Title">Title</label>
+        <input asp-for="Tour.Title" type="text" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Converter.Country">Country</label>
+        <input asp-for="Converter.Country" type="text" class="form-control">
+        <small class="form-text text-muted">if more than 1 country, write using ';'</small>
+    </div>
+    <div class="form-group">
+        <label asp-for="Converter.City">City</label>
+        <input asp-for="Converter.City" type="text" class="form-control">
+        <small class="form-text text-muted">if more than 1 city, write using ';'</small>
+    </div>
+    <div class="form-group">
+        <label asp-for="Tour.Duration">Duration</label>
+        <input asp-for="Tour.Duration" type="number" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Tour.Start">Start</label>
+        <input asp-for="Tour.Start" type="datetime-local" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Tour.End">End</label>
+        <input asp-for="Tour.End" type="datetime-local" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Tour.Price">Price</label>
+        <input asp-for="Tour.Price" type="number" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Tour.TravelStyle">Travel Style</label>
+        <input asp-for="Tour.TravelStyle" type="text" class="form-control">
+    </div>
+    <div class="form-group">
+        <label asp-for="Converter.Accomodation">Accomodation</label>
+        <input asp-for="Converter.Accomodation" type="text" class="form-control">
+        <small class="form-text text-muted">if more than 1 hotel, write using ';'</small>
+    </div>
+    <div class="form-group">
+        <label asp-for="Converter.AgencyId">Travel agencies which provide current tour</label>
+        <select class="form-control" asp-for="Converter.AgencyId" asp-items="Model.AgencySelectOptions">
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Converter.ExcursionId">Excursions to be included in current tour</label>
+        <select class="form-control" asp-for="Converter.ExcursionId" asp-items="Model.ExcursionSelectOptions" multiple>
+        </select>
+    </div>
+    <button asp-page-handler="ok" class="btn-lg btn-success">OK</button>
+    <button asp-page-handler="cancel" type="submit" class="btn-lg btn-danger ml-3">Cancel</button>
+</form>
+

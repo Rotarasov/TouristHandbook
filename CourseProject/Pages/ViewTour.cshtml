@@ -1,0 +1,83 @@
+﻿@page "{userId?}/{tourId?}/{initPage?}"
+@model CourseProject.Pages.ViewTourModel
+@{
+    ViewData["Title"] = "ViewTour";
+}
+
+<h1 class="display-4">@Model.Tour.Title</h1> <br />
+<h3><u>Country</u>: @Model.Converter.Country</h3> <br />
+<h3><u>City</u>: @Model.Converter.City</h3> <br />
+<h3>
+    <u>Duration</u>:
+    @if (Model.Tour.Duration == 1)
+    {
+        <span>@Model.Tour.Duration day</span>
+    }
+    else
+    {
+        <span>@Model.Tour.Duration days</span>
+    }
+</h3> <br />
+<h3><u>Start</u>: @(((DateTime)Model.Tour.Start).ToShortDateString())</h3> <br />
+<h3><u>End</u>: @(((DateTime)Model.Tour.End).ToShortDateString())</h3> <br />
+<h3><u>Price</u>: <span id="price">@Model.Tour.Price</span> $</h3> <br />
+<h3><u>Accomodation</u>: @Model.Converter.Accomodation</h3> <br />
+<h3><u>Travel Style</u>: @Model.Tour.TravelStyle</h3> <br />
+<h3>Travel Agencies which provide current tour <span class="badge badge-info">@Model.TourAgency.Count</span></h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+        </tr>
+    </thead>
+    @for (int i = 0; i < Model.TourAgency.Count; i++)
+    {
+        <tr>
+            <th scope="row">@(i + 1)</th>
+            <td>@Model.TourAgency[i].Title</td>
+        </tr>
+    }
+</table> <br />
+<h3>Available excursions in current tour <span class="badge badge-info">@Model.TourExcursions.Count</span></h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Price</th>
+            <th scope="col">Choose</th>
+        </tr>
+    </thead>
+    @for (int i = 0; i < Model.TourExcursions.Count; i++)
+    {
+        <tr>
+            <th scope="row">@(i + 1)</th>
+            <td>@Model.TourExcursions[i].Title</td>
+            <td>@Model.TourExcursions[i].Price $</td>
+            <td><input type="checkbox" id="@Model.TourExcursions[i].Price" /></td>
+        </tr>
+    }
+</table> <br />
+<h3>Number of people</h3>
+<form id="calculateForm" method="post">
+    <input hidden asp-for="Tour.Id" />
+    <input hidden asp-for="CurrentUser.Id" />
+    <input hidden asp-for="InitialPage" />
+    <input hidden type="checkbox" asp-for="CurrentUser.IsAdmin" id="isAdmin" />
+    <div class="input-group mb-3">
+        <input type="number" class="form-control" placeholder="Write number of people to calculate">
+        <div class="input-group-append">
+            <button class="btn btn-outline-secondary" id="submit">Calculate</button>
+        </div>
+    </div>
+</form> <br />
+<h3>Total: <span id="result"></span></h3> <br />
+<form method="post" asp-page-handler="return">
+    <input hidden asp-for="Tour.Id" />
+    <input hidden asp-for="CurrentUser.Id" />
+    <input hidden asp-for="InitialPage" />
+    <button type="submit" class="btn-lg btn-secondary" id="return">Return</button>
+</form>
+
+

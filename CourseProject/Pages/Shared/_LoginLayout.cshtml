@@ -1,0 +1,21 @@
+﻿@{
+    Layout = "_MasterLayout";
+}
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container-fluid px-5">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Tourist Handbook</a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <partial name="_CookieConsentPartial" />
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2019 - Tourist App
+        </div>
+    </footer>

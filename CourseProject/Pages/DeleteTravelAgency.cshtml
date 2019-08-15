@@ -1,0 +1,37 @@
+﻿@page "{userId}/{agencyId}"
+@model CourseProject.Pages.DeleteTravelAgencyModel
+@{
+    ViewData["Title"] = "DeleteTravelAgency";
+}
+
+<h1>@Model.Agency.Title</h1> <br />
+<h3>Tours, provided by current agency <span class="badge badge-info">@Model.ChosenTours.Count</span></h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Duration</th>
+            <th scope="col">Start</th>
+            <th scope="col">End</th>
+        </tr>
+    </thead>
+    @for (int i = 0; i < Model.ChosenTours.Count; i++)
+    {
+        <tr>
+            <th scope="row">@(i + 1)</th>
+            <td>@Model.ChosenTours[i].Title</td>
+            <td>@Model.ChosenTours[i].Duration</td>
+            <td>@(((DateTime)Model.ChosenTours[i].Start).ToShortDateString())</td>
+            <td>@(((DateTime)Model.ChosenTours[i].End).ToShortDateString())</td>
+        </tr>
+    }
+</table> <br />
+<form method="post">
+    <input hidden asp-for="Agency.Id" />
+    <input hidden asp-for="UserId" />
+    <select hidden asp-for="Agency.ToursId" asp-items="Model.SelectOptions"></select>
+    <button asp-page-handler="delete" class="btn-lg btn-danger">Delete</button>
+    <button asp-page-handler="cancel" type="submit" class="btn-lg btn-secondary ml-3">Cancel</button>
+</form>
+

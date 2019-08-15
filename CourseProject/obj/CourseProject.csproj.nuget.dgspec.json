@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/CourseProject.csproj": {}
+  },
+  "projects": {
+    "/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/CourseProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/CourseProject.csproj",
+        "projectName": "CourseProject",
+        "projectPath": "/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/CourseProject.csproj",
+        "packagesPath": "/Users/romantarasov/.nuget/packages/",
+        "outputPath": "/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/romantarasov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.jQuery.Unobtrusive.Ajax": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.8.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

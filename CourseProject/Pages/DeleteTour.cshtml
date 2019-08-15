@@ -1,0 +1,68 @@
+﻿@page "{userId}/{tourId}"
+@model CourseProject.Pages.DeleteTourModel
+@{
+    ViewData["Title"] = "DeleteTour";
+}
+
+<h1 class="display-4">@Model.Tour.Title</h1> <br />
+<h3><u>Country</u>: @Model.Converter.Country</h3> <br />
+<h3><u>City</u>: @Model.Converter.City</h3> <br />
+<h3>
+    <u>Duration</u>:
+    @if (Model.Tour.Duration == 1)
+    {
+        <span>@Model.Tour.Duration day</span>
+    }
+    else
+    {
+        <span>@Model.Tour.Duration days</span>
+    }
+</h3> <br />
+<h3><u>Start</u>: @(((DateTime)Model.Tour.Start).ToShortDateString())</h3> <br />
+<h3><u>End</u>: @(((DateTime)Model.Tour.End).ToShortDateString())</h3> <br />
+<h3><u>Price</u>: <span id="price">@Model.Tour.Price</span> $</h3> <br />
+<h3><u>Accomodation</u>: @Model.Converter.Accomodation</h3> <br />
+<h3><u>Travel Style</u>: @Model.Tour.TravelStyle</h3> <br />
+<h3>Travel Agencies which provide current tour <span class="badge badge-info">@Model.ChosenAgency.Count</span></h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+        </tr>
+    </thead>
+    @for (int i = 0; i < Model.ChosenAgency.Count; i++)
+    {
+        <tr>
+            <th scope="row">@(i + 1)</th>
+            <td>@Model.ChosenAgency[i].Title</td>
+        </tr>
+    }
+</table> <br />
+<h3>Available excursions in current tour <span class="badge badge-info">@Model.ChosenExcursions.Count</span></h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    @for (int i = 0; i < Model.ChosenExcursions.Count; i++)
+    {
+        <tr>
+            <th scope="row">@(i + 1)</th>
+            <td>@Model.ChosenExcursions[i].Title</td>
+            <td>@Model.ChosenExcursions[i].Price $</td>
+        </tr>
+    }
+</table> <br />
+<form method="post">
+    <input hidden asp-for="Tour.Id" />
+    <input hidden asp-for="UserId" />
+    <select hidden asp-for="Tour.AgenciesId" asp-items="Model.AgencySelectOptions"></select>
+    <select hidden asp-for="Tour.ExcursionsId" asp-items="Model.ExcursionSelectOptions"></select>
+    <button asp-page-handler="delete" class="btn-lg btn-danger">Delete</button>
+    <button asp-page-handler="cancel" type="submit" class="btn-lg btn-secondary ml-3">Cancel</button>
+</form>
+

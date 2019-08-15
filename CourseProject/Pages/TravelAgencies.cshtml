@@ -1,0 +1,50 @@
+﻿@page "{userId}"
+@model CourseProject.Pages.TravelAgenciesModel
+@{
+    ViewData["Title"] = "TravelAgencies";
+}
+
+<h1>Travel Agencies</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Tours provided</th>
+            @if (Model.CurrentUser.IsAdmin)
+            {
+                <th scope="col"><a class="btn btn-outline-primary" asp-page="AddTravelAgency" asp-route-userId="@ViewData["userId"]">Add Travel Agency</a></th>
+            }
+            else
+            {
+                <th scope="col"></th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var agency in Model.TravelAgencies)
+        {
+            <tr>
+                <td>@agency.Title</td>
+                <td>
+                    @if(agency.ToursId == null)
+                    {
+                        <span>0</span>
+                    }
+                    else
+                    {
+                        <span>@agency.ToursId.Count</span>
+                    }
+                </td>
+                <td>
+                    <a class="btn btn-outline-info" asp-page="ViewTravelAgency" asp-route-userId="@ViewData["userId"]" asp-route-agencyId="@agency.Id" asp-route-initPage="TravelAgencies">View</a>
+                    @if (Model.CurrentUser.IsAdmin)
+                    {
+                        <a class="btn btn-outline-secondary" asp-page="UpdateTravelAgency" asp-route-userId="@ViewData["userId"]" asp-route-agencyId="@agency.Id">Update</a> 
+                        <a class="btn btn-outline-danger" asp-page="DeleteTravelAgency" asp-route-userId="@ViewData["userId"]" asp-route-agencyId="@agency.Id">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

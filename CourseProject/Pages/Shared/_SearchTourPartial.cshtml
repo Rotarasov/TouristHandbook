@@ -1,0 +1,28 @@
+﻿@model List<CourseProject.Models.Tour>
+<h2>Search for tours</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Duration</th>
+            <th scope="col">Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var tour in Model)
+        {
+            <tr>
+                <td>@tour.Title</td>
+                @if (tour.Duration == 1)
+                {
+                    <td>1 day</td>
+                }
+                else
+                {
+                    <td>@tour.Duration days</td>
+                }
+                <td>@tour.Price $</td>
+            </tr>
+        }
+    </tbody>
+</table>

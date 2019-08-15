@@ -1,0 +1,212 @@
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.deps.json
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.json
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.dev.json
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.dll
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.pdb
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.dll
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.pdb
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csprojAssemblyReference.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CoreCompileInputs.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfoInputs.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfo.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.input.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.output.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorCoreGenerate.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cache
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.Views.pdb
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.dll
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.pdb
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CopyComplete
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_MasterLayout.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginLayout.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Home.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_UserLayout.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Tours.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Excursions.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/TravelAgencies.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddExcursion.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateExcursion.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteExcursion.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewExcursion.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTravelAgency.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTravelAgency.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTravelAgency.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTravelAgency.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTour.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTour.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTour.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Register.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/About.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchTourPartial.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchAgencyPartial.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchExcursionPartial.g.cshtml.cs
+C:/Users/Roman/Desktop/NURE/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTour.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.deps.json
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.json
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.dev.json
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.dll
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.pdb
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.dll
+F:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.pdb
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csprojAssemblyReference.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CoreCompileInputs.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfoInputs.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfo.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.input.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.output.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorCoreGenerate.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/About.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddExcursion.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTour.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTravelAgency.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteExcursion.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTour.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTravelAgency.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Excursions.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Home.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Register.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginLayout.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_MasterLayout.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchAgencyPartial.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchExcursionPartial.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchTourPartial.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_UserLayout.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Tours.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/TravelAgencies.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateExcursion.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTour.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTravelAgency.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewExcursion.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTour.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTravelAgency.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cache
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cs
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.Views.pdb
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.dll
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.pdb
+F:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CopyComplete
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.deps.json
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.json
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.dev.json
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.dll
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.pdb
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.dll
+H:/II семестр/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.pdb
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csprojAssemblyReference.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CoreCompileInputs.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfoInputs.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfo.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.input.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.output.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorCoreGenerate.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/About.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddExcursion.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTour.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTravelAgency.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteExcursion.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTour.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTravelAgency.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Excursions.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Home.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Register.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginLayout.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_MasterLayout.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchAgencyPartial.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchExcursionPartial.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchTourPartial.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_UserLayout.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Tours.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/TravelAgencies.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateExcursion.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTour.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTravelAgency.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewExcursion.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTour.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTravelAgency.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cache
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cs
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.Views.pdb
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.dll
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.pdb
+H:/II семестр/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CopyComplete
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.deps.json
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.json
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.runtimeconfig.dev.json
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.dll
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.pdb
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.dll
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/bin/Debug/netcoreapp2.2/CourseProject.Views.pdb
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csprojAssemblyReference.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CoreCompileInputs.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorAssemblyInfo.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfoInputs.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.AssemblyInfo.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.input.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.TagHelpers.output.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorCoreGenerate.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/About.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddExcursion.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTour.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/AddTravelAgency.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteExcursion.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTour.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/DeleteTravelAgency.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Error.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Excursions.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Home.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Privacy.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Register.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_LoginLayout.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_MasterLayout.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchAgencyPartial.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchExcursionPartial.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_SearchTourPartial.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_UserLayout.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/Tours.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/TravelAgencies.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateExcursion.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTour.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/UpdateTravelAgency.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewExcursion.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTour.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/ViewTravelAgency.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewImports.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/Razor/Pages/_ViewStart.g.cshtml.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cache
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.RazorTargetAssemblyInfo.cs
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.Views.pdb
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.dll
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.pdb
+/Users/romantarasov/Desktop/NURE/Course 1/II term/OOP/CourseProject/Project/CourseProject/obj/Debug/netcoreapp2.2/CourseProject.csproj.CopyComplete

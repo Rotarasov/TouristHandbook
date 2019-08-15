@@ -1,0 +1,28 @@
+﻿@model List<CourseProject.Models.TravelAgency>
+<h2>Search for travel agencies</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Tours provided</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var agency in Model)
+        {
+            <tr>
+                <td>@agency.Title</td>
+                <td>
+                    @if (agency.ToursId == null)
+                    {
+                        <span>0</span>
+                    }
+                    else
+                    {
+                        <span>@agency.ToursId.Count</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

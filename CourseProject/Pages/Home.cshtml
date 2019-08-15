@@ -1,0 +1,27 @@
+﻿@page "{userId}/{handler?}/{value?}"
+@model CourseProject.Pages.HomeModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1 class="text-center display-3">@ViewData["welcoming"]</h1> <br />
+<div class="lead">
+    <h3>
+        <strong><em>Toursit Handbook</em></strong> is perfect web application for you, which gives you an opportunity to be aware
+        of all upcoming tours from every travel agency
+    </h3>
+</div>
+<div class="input-group mt-5">
+    <input type="hidden" asp-for="@ViewData["userId"]" />
+    <input type="search" class="form-control" placeholder="Search for tour, agency, excursion...">
+    <div class="input-group-append">
+        <button id="search" class="btn btn-outline-info">Search</button>
+        <select class="btn btn-outline-info">
+            <option selected value="undefined">Search for...</option>
+            <option value="tour">Tour</option>
+            <option value="agency">Travel Agency</option>
+            <option value="excursion">Excursion</option>
+        </select>
+    </div>
+</div> <br />
+<div id="panel"></div>

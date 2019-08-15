@@ -1,0 +1,49 @@
+﻿@{
+    Layout = "_MasterLayout";
+}
+<header>
+    <nav class="navbar navbar-expand-lg navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+        <div class="container-fluid px-5">
+            <a class="navbar-brand" asp-area="" asp-page="/Home" asp-route-userId="@ViewData["userId"]">Tourist Handbook</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row">
+                <ul class="navbar-nav flex-grow-1">
+                    <li class="nav-item active mx-2">
+                        <a class="nav-link" asp-area="" asp-page="/Home" asp-route-userId="@ViewData["userId"]">Home</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                        <a class="nav-link" asp-area="" asp-page="/Tours" asp-route-userId="@ViewData["userId"]">Tours</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                        <a class="nav-link" asp-area="" asp-page="/TravelAgencies" asp-route-userId="@ViewData["userId"]">Travel Agencies</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                        <a class="nav-link" asp-area="" asp-page="/Excursions" asp-route-userId="@ViewData["userId"]">Excursions</a>
+                    </li>
+                    <li class="nav-item mx-2">
+                        <a class="nav-link" asp-area="" asp-page="/About" asp-route-userId="@ViewData["userId"]">About</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">                    
+                    <button asp-page="/Index" class="btn btn-outline-info my-2 my-sm-0 ml-2">Sign Out</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <partial name="_CookieConsentPartial" />
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+<footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2019 - Tourist App - <a asp-area="" asp-page="/Privacy">Privacy</a>
+    </div>
+</footer>
+
+@RenderSection("Scripts", required: false)

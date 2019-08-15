@@ -1,0 +1,40 @@
+﻿@page "{userId}"
+@model CourseProject.Pages.ExcursionsModel
+@{
+    ViewData["Title"] = "Excursions";
+}
+
+<h1>Excursions</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Price</th>
+            @if (Model.CurrentUser.IsAdmin)
+            {
+                <th scope="col"><a class="btn btn-outline-primary" asp-page="AddExcursion" asp-route-userId="@ViewData["userId"]">Add Excursion</a></th>
+            }
+            else
+            {
+                <th scope="col"></th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var excursion in Model.Excursions)
+        {
+            <tr>
+                <td>@excursion.Title</td>
+                <td>@excursion.Price $</td>
+                <td>
+                    <a class="btn btn-outline-info" asp-page="ViewExcursion" asp-route-userId="@ViewData["userId"]" asp-route-excId="@excursion.Id" asp-route-initPage="Excursions">View</a>
+                    @if (Model.CurrentUser.IsAdmin)
+                    {
+                        <a class="btn btn-outline-secondary" asp-page="UpdateExcursion" asp-route-userId="@ViewData["userId"]" asp-route-excId="@excursion.Id">Update</a> 
+                        <a class="btn btn-outline-danger" asp-page="DeleteExcursion" asp-route-userId="@ViewData["userId"]" asp-route-excId="@excursion.Id">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
